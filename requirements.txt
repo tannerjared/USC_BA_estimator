@@ -3,5 +3,5 @@ numpy
 matplotlib
 nibabel
 scipy
-datetime==5.1
+datetime
 pandas
